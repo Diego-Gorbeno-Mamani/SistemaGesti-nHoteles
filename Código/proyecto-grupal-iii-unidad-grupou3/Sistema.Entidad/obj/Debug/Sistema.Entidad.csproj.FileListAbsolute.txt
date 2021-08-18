@@ -1,0 +1,48 @@
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Entidad\obj\Debug\Sistema.Entidad.csprojAssemblyReference.cache
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csprojAssemblyReference.cache
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csprojAssemblyReference.cache
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csprojAssemblyReference.cache
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csprojAssemblyReference.cache
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csprojAssemblyReference.cache
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csprojAssemblyReference.cache
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\bin\Debug\Sistema.Entidad.pdb
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csprojAssemblyReference.cache
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.csproj.CoreCompileInputs.cache
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Entidad\obj\Debug\Sistema.Entidad.pdb

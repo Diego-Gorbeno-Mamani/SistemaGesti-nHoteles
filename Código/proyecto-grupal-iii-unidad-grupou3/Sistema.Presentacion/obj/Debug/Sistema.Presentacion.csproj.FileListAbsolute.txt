@@ -1,0 +1,435 @@
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\bin\Debug\Guna.UI.dll
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+D:\GITHUB PROYECTO PROGRA 2\SistemaGestionDeHoteles\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Guna.UI.dll
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\GITHUB PROYECTO PROGRA 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInicio.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Guna.UI.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInicio.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHabitaciones.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHabitaciones.resources
+C:\Users\Admn\Documents\GitHub\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInicio.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Guna.UI.dll
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHabitaciones.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInicio.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\ROGEERRRRRR\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Guna.UI.dll
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHabitaciones.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInicio.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\copia seguridad\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Guna.UI.dll
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHabitaciones.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInicio.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\copiapryectooooooooooooooooo\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHabitaciones.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInicio.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmReportesGeneral.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteCantidadReservasPorCliente.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\RdlCompile.compiled
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Guna.UI.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\stdole.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmTotalReservas.resources
+D:\TRABAJO REPORTES PROYECTO\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteParametro.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\stdole.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmReportesGeneral.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteCantidadReservasPorCliente.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteParametro.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmTotalReservas.resources
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+D:\PROYECTO PROGRA 2 FINAL\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno\Sistema.Presentacion\obj\Debug\RdlCompile.compiled
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHabitaciones.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmAgregarHotel.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCrearCuenta.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmEstadoCuenta.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmInicio.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmListarHotel.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmMenu.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmReportesGeneral.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVerClientes.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVistaPrevia.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteCantidadReservasPorCliente.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteParametro.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmTotalReservas.resources
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\RdlCompile.compiled
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\FontAwesome.Sharp.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Entidad.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\stdole.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Entidad.pdb
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\base de datos 2\proyecto-grupal-iii-unidad-grupou3_anahua_arias_coloma_gorbeno-master\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
